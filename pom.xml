@@ -21,7 +21,7 @@
 	<artifactId>ziyan</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<name>ziyan</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot test</description>
 
 	<properties>
 		<java.version>1.8</java.version>
